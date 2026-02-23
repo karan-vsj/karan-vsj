@@ -68,9 +68,10 @@ I focus on writing **efficient, scalable, and production-ready systems**.
 
 ---
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Backend APIs](https://img.shields.io/badge/Backend%20APIs-4CAF50?style=for-the-badge&logo=node.js&logoColor=white)
+### 🌐 Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
