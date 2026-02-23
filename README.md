@@ -1,101 +1,131 @@
-<h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">💻 Data Engineering Enthusiast | AI & ML Developer</h3>
+<!-- HEADER -->
+<h1 align="center">Karan V S J</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+in+Progress;AI+%26+ML+Builder;Backend+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&pause=1000&size=26&lines=Data+Engineering+Enthusiast;AI+%26+ML+Developer;Backend+Engineer;Building+Scalable+Systems" 
+  />
 </p>
 
----
-
-## 🚀 About Me  
-
-- 🔭 Working on **AI & ML Projects**
-- 🌱 Learning **SQL, Python, Databricks & Data Pipelines**
-- ⚙️ Strong in **Backend Development (Java + APIs)**
-- 🎯 Goal: Become a **Data Engineer by 2026**
-- 💡 Interested in **Scalable Systems & Big Data**
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Programming  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
-</p>
-
-### 📊 Data & Analytics  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### ⚙️ Tools & Technologies  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
-</p>
-
-### 🌐 Web Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
-</p>
-
----
-
-## 📌 Projects  
-
-### 🔹 AI Multimodal Interview Analyzer  
-- Facial emotion detection 😄😢  
-- Performance scoring system  
-- Graph-based visualization  
-
-### 🔹 Humane Pet Adoption Portal  
-- Full-stack (Spring Boot + React)  
-- Pet management & health tracking  
-- JWT Authentication  
-
-### 🔹 Railway Reservation System  
-- Booking & cancellation  
-- Waiting list logic  
-- Optimized seat allocation  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me  
+<h3 align="center">Focused on Data Engineering, AI Systems & Scalable Backend Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact  
+## 👨‍💻 About Me
 
-🚀 *I build systems today that I want to scale tomorrow*
+I'm a Computer Science student building strong expertise in:
+
+- 📊 Data Engineering & Data Pipelines  
+- 🤖 Artificial Intelligence & Machine Learning  
+- ⚙️ Backend Development (Java + APIs)  
+- 🧠 Data Structures & Problem Solving  
+
+I focus on writing **efficient, scalable, and production-ready systems**.
+
+---
+
+## 🚀 Currently Working On
+
+- Advanced SQL & Query Optimization  
+- Python for Data Engineering  
+- Databricks & Big Data Tools  
+- ETL / ELT Data Pipelines  
+- Backend system design (Spring Boot)
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### 📊 Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Processing](https://img.shields.io/badge/Data%20Processing-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Backend APIs](https://img.shields.io/badge/Backend%20APIs-4CAF50?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&v=2" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&cache_seconds=300" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| AI Multimodal Interview Analyzer | Emotion detection with performance scoring & visualization |
+| Humane Pet Adoption Portal | Full-stack system with authentication & health tracking |
+| Railway Reservation System | Booking system with waiting list & optimization logic |
+
+---
+
+## ⚡ Developer Highlights
+
+- Built full-stack applications using **Spring Boot + React**  
+- Strong foundation in **Data Structures & Algorithms**  
+- Developing **data pipelines & scalable backend systems**  
+- Exploring **Big Data & Cloud technologies**
+
+---
+
+## 🎯 Career Direction
+
+Aspiring **Data Engineer** focused on:
+
+- Data Pipelines & ETL Systems  
+- Big Data Processing  
+- Cloud Data Platforms  
+- Scalable Backend Architectures  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 📧 Email: your-email@gmail.com  
+
+---
+
+> 🚀 *Building data systems that scale for the future*
