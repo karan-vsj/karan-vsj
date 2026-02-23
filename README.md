@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/karan-vsj">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:vsjkaran123@gmail.com?subject=Hello%20Karan">
+  <a href="https://mail.google.com/mail/?view=cm&to=vsjkaran123@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -77,7 +77,7 @@ I focus on writing **efficient, scalable, and production-ready systems**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=karan-vsj&theme=github-dark&v=2" />
+  <img src="https://streak-stats.demolab.com?user=karan-vsj&theme=github-dark&v=2" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ Aspiring **Data Engineer** focused on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https:www.linkedin.com/in/karan-vsj 
+- 💼 LinkedIn: https://www.linkedin.com/in/karan-vsj  
 - 📧 Email: vsjkaran123@gmail.com  
 
 ---
