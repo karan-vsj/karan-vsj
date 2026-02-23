@@ -1,92 +1,101 @@
-# 👋 Hi, I'm Karan!
+<h1 align="center">Hi 👋, I'm Karan</h1>
+<h3 align="center">💻 Data Engineering Enthusiast | AI & ML Developer</h3>
 
-💻 Aspiring Data Engineer | AI & ML Enthusiast  
-📍 India  
-🎯 Focused on building scalable data systems and intelligent applications  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+in+Progress;AI+%26+ML+Builder;Backend+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🔭 Currently working on **AI & ML-based projects**
-- 🌱 Learning **SQL, Python, Databricks, and Data Pipelines**
-- ⚙️ Strong in **Backend Development & System Design**
-- 🧠 Interested in **Data Engineering, Analytics & Automation**
+- 🔭 Working on **AI & ML Projects**
+- 🌱 Learning **SQL, Python, Databricks & Data Pipelines**
+- ⚙️ Strong in **Backend Development (Java + APIs)**
 - 🎯 Goal: Become a **Data Engineer by 2026**
+- 💡 Interested in **Scalable Systems & Big Data**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-### 💻 Programming
-- Java ☕
-- Python 🐍
-- C++ ⚡
+### 💻 Programming  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
 
-### 📊 Data & Analytics
-- SQL 🗄️
-- Pandas & NumPy
-- Data Processing
+### 📊 Data & Analytics  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- Databricks (Learning)
-- REST APIs
-- JWT Authentication
+### ⚙️ Tools & Technologies  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
 
-### 🌐 Web Development
-- React ⚛️
-- Backend APIs
+<p>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+</p>
 
----
-
-## 📌 Projects
-
-### 🔹 AI Multimodal Interview Analyzer
-- Analyzes facial expressions & emotions
-- Generates performance score (Happy/Sad metrics)
-- Uses ML & visualization techniques
-
-### 🔹 Humane Pet Adoption Portal
-- Full-stack system with:
-  - User authentication
-  - Pet management
-  - Health tracking
-- Built with **Java (Spring Boot)**
-
-### 🔹 Railway Reservation System
-- Features:
-  - Ticket booking & cancellation
-  - Waiting list management
-  - Optimized seat allocation
+### 🌐 Web Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
 
 ---
 
-## 📈 Learning Path
+## 📌 Projects  
 
-- ✔️ SQL (Advanced Queries, Optimization)
-- ✔️ Python for Data Engineering
-- 🔄 Databricks & Big Data Tools
-- 🔄 Data Pipelines (ETL/ELT)
-- 🔄 Cloud (Upcoming)
+### 🔹 AI Multimodal Interview Analyzer  
+- Facial emotion detection 😄😢  
+- Performance scoring system  
+- Graph-based visualization  
 
----
+### 🔹 Humane Pet Adoption Portal  
+- Full-stack (Spring Boot + React)  
+- Pet management & health tracking  
+- JWT Authentication  
 
-## 📊 GitHub Stats
-
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: your-email@example.com
+### 🔹 Railway Reservation System  
+- Booking & cancellation  
+- Waiting list logic  
+- Optimized seat allocation  
 
 ---
 
-## ⚡ Fun Fact
+## 📊 GitHub Stats  
 
-> I build systems today that I want to scale tomorrow 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+🚀 *I build systems today that I want to scale tomorrow*
