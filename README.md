@@ -10,10 +10,10 @@
 <h3 align="center">Focused on Data Engineering, AI Systems & Scalable Backend Development</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="www.linkedin.com/in/karan-vsj">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:vsjkaran123@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -123,7 +123,7 @@ Aspiring **Data Engineer** focused on:
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https:www.linkedin.com/in/karan-vsj 
-- 📧 Email: your-vsjkaran123@gmail.com  
+- 📧 Email: vsjkaran123@gmail.com  
 
 ---
 
