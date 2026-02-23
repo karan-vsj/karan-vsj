@@ -78,7 +78,7 @@ I focus on writing **efficient, scalable, and production-ready systems**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&v=2" />
+<img src="https://streak-stats.demolab.com?user=karan-vsj&theme=github-dark&v=2" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ I focus on writing **efficient, scalable, and production-ready systems**.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&cache_seconds=300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan-vsj&theme=github-dark&cache_seconds=300" />
 </p>
 
 ---
