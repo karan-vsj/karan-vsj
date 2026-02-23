@@ -122,8 +122,8 @@ Aspiring **Data Engineer** focused on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https:www.linkedin.com/in/karan-vsj 
+- 📧 Email: your-vsjkaran123@gmail.com  
 
 ---
 
