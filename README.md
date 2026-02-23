@@ -101,11 +101,10 @@ I focus on writing **efficient, scalable, and production-ready systems**.
 
 ## ⚡ Developer Highlights
 
-- Built full-stack applications using **Spring Boot + React**  
+- Built scalable backend systems using **Spring Boot**  
 - Strong foundation in **Data Structures & Algorithms**  
-- Developing **data pipelines & scalable backend systems**  
-- Exploring **Big Data & Cloud technologies**
-
+- Developing **data pipelines and backend architectures**  
+- Exploring **Big Data tools and Cloud technologies**
 ---
 
 ## 🎯 Career Direction
