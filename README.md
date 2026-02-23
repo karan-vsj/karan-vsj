@@ -10,7 +10,7 @@
 <h3 align="center">Focused on Data Engineering, AI Systems & Scalable Backend Development</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/karan-vsj">
+  <a href="https:www.linkedin.com/in/karan-vsj">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:vsjkaran123@gmail.com">
